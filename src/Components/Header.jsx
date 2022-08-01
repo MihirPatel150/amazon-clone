@@ -1,8 +1,8 @@
 import React from "react";
-import logo from "./assets/amazon-white.png";
+import logo from "../assets/amazon-white.png";
 import SearchIcon from '@mui/icons-material/Search';
 import ShoppingBasketIcon from '@mui/icons-material/ShoppingBasket';
-import "./Header.css";
+import "../styles/Header.css";
 
 function Header() {
   return (
